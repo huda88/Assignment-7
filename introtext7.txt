@@ -1,0 +1,4 @@
+friends 43
+sorella 23
+fratello 12
+dog 65
